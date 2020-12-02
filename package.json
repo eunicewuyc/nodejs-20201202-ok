@@ -1,0 +1,9 @@
+{
+  "name": "pwd",
+  "version": "yarn init -y",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "request-stats": "^3.0.0"
+  }
+}
